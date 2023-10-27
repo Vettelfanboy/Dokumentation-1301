@@ -19,7 +19,7 @@ Wir erstellen ein Programm in C#, welches Kontaktdaten speichert.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein User möchte ich, dass ich Name, Tel.-Nr., Geburtsdatum, Alter, E-Mail Adresse und Wohnadresse sehen kann, damit ich genung wichtige Informationen über die Personen habe. |
+| 1    |                 |      | Als ein User möchte ich, dass ich Name, Tel.-Nr., Geburtsdatum, Alter, E-Mail Adresse und Wohnort sehen kann, damit ich genung wichtige Informationen über die Personen habe. |
 | 2    |                 |      | Als ein User möchte ich, dass ich mehr als einen Kontakt sehen kann, damit ich jederzeit auswählen kann, von welchem Kontakt ich die Daten sehen kann. |
 | 3    |                 |      | Als ein User möchte ich, dass ich immer informiert werde, wenn ich eine Fehleingabe mache, damit ich weiss, dass dieser Kontakt nicht existiert. |
 | 4    |                 |      | Als ein User möchte ich, dass ich laufend andere Kontakte sehen kann, ohne das Programm ständig schliessen zu müssen. |
