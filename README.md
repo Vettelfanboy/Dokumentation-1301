@@ -44,8 +44,14 @@ Wir erstellen ein Programm in C#, welches Kontaktdaten speichert.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       | Simon Veljkovic | Kontaktdaten für Person 1 implementieren |             
+| 2.A  |       | Simon Veljkovic | Kontaktdaten für Person 2 implementieren |    
+| 3.A  |       | Simon Veljkovic | Kontaktdaten für Person 3 implementieren |
+| 4.A  |       | Agachan Atputharasa | Kontaktdaten für Person 4 implementieren |
+| 5.A  |       | Agachan Atputharasa | Kontaktdaten für Person 5 implementieren |
+| 6.A  |       | Agachan Atputharasa | Kontaktdaten für Person 6 implementieren |
+| 7.A  |       | Simon Veljkovic | Funktion für Aufrufe der Kontaktdaten implementieren |
+| 8.A  |       | Agachan Atputharasa | Ja/Nein-Auswahl implementieren |
 
 Total: 
 
