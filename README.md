@@ -23,7 +23,7 @@ Wir erstellen ein Programm in C#, welches Kontaktdaten speichert.
 | 2    | Muss            | Funktional | Als ein User möchte ich, dass ich mehr als einen Kontakt sehen kann, damit ich jederzeit auswählen kann, von welchem Kontakt ich die Daten sehen kann. |
 | 3    | Muss            | Funktional | Als ein User möchte ich, dass ich immer informiert werde, wenn ich eine Fehleingabe mache, damit ich weiss, dass dieser Kontakt nicht existiert. |
 | 4    | Muss            | Qualität   | Als ein User möchte ich, dass ich laufend andere Kontakte sehen kann, ohne das Programm ständig schliessen zu müssen. |
-| 5    | Muss            | Qualität   | Als ein User möchte ich, dass ich, wenn ich das Programm schliesse, dass ich mich das Programm freundlich verabschiedet. |
+| 5    | Kann            | Qualität   | Als ein User möchte ich, dass ich, wenn ich das Programm schliesse, dass mich das Programm freundlich verabschiedet. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
