@@ -42,10 +42,10 @@ Wir erstellen ein Programm in C#, welches Kontaktdaten speichert.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 27.10.2023 | Simon Veljkovic | Initalisierung der Kontaktdaten implementieren |             
-| 2.A  | 27.10.2023 | Agachan Atputharasa | Daten aussuchen |    
-| 3.A  | 27.10.2023 | Simon Veljkovic | Aufruf der Kontaktdaten implementieren |
-| 4.A  | 27.10.2023 | Agachan Atputharasa | Abfrage-Loop für weitere Kontaktdaten implementieren sowie Ende für das Programm einbauen |
+| 1.A  | 27.10.2023 | Simon Veljkovic | Initalisierung der Kontaktdaten implementieren | 60 Minuten|            
+| 2.A  | 27.10.2023 | Agachan Atputharasa | Daten aussuchen | 30 Minuten|   
+| 3.A  | 27.10.2023 | Simon Veljkovic | Aufruf der Kontaktdaten implementieren |60 Minuten|
+| 4.A  | 27.10.2023 | Agachan Atputharasa | Abfrage-Loop für weitere Kontaktdaten implementieren sowie Ende für das Programm einbauen |45 Minuten|
 
 
 
