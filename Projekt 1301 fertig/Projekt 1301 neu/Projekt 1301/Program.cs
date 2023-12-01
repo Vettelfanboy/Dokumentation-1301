@@ -1,4 +1,4 @@
-﻿namespace Projekt_1301
+namespace Projekt_1301
 {
     internal class Program
     {
@@ -22,8 +22,15 @@
 
             while (true)
             {
+                
                 Console.WriteLine("Hallo, Wählen Sie 1-6 für aufrufen einzelne Kontaktdaten, 7 für alle Kontaktdaten, 8 zum Beenden von Programm.");
-                int zahl = Convert.ToInt32(Console.ReadLine());
+                int zahl;
+
+                while (!int.TryParse(Console.ReadLine(), out zahl) || (zahl != 1 && zahl != 2 && zahl != 3 && zahl != 4 && zahl != 5 && zahl != 6 && zahl != 7 && zahl != 8))
+                {
+                    Console.WriteLine("Bitte wählen Sie eine Nummer von 1-8. Wählen Sie 1-6 für aufrufen einzelne Kontaktdaten, 7 für alle Kontaktdaten, 8 zum Beenden von Programm.");
+                }
+                
 
                 Console.Clear();
 
