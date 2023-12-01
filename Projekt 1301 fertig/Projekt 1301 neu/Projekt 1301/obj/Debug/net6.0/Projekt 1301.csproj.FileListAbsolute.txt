@@ -1,0 +1,42 @@
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\Projekt 1301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\Projekt 1301.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\Projekt 1301.AssemblyInfo.cs
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\Projekt 1301.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\bin\Debug\net6.0\Projekt 1301.exe
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\bin\Debug\net6.0\Projekt 1301.deps.json
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\bin\Debug\net6.0\Projekt 1301.runtimeconfig.json
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\bin\Debug\net6.0\Projekt 1301.dll
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\bin\Debug\net6.0\Projekt 1301.pdb
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\Projekt 1301.dll
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\refint\Projekt 1301.dll
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\Projekt 1301.pdb
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\Projekt 1301.genruntimeconfig.cache
+C:\Users\simon\source\repos\Projekt 1301\Projekt 1301\obj\Debug\net6.0\ref\Projekt 1301.dll
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.exe
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.deps.json
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.runtimeconfig.json
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.dll
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.pdb
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.AssemblyInfoInputs.cache
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.AssemblyInfo.cs
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.csproj.CoreCompileInputs.cache
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.dll
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\refint\Projekt 1301.dll
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.pdb
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.genruntimeconfig.cache
+C:\Users\A.Atputharasa.inf22\OneDrive - BBBaden\Dokumente\0_Schule\Informatik\ILA\2 Schuljahr\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\ref\Projekt 1301.dll
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.exe
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.deps.json
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.runtimeconfig.json
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.dll
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\bin\Debug\net6.0\Projekt 1301.pdb
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.AssemblyInfo.cs
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.dll
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\refint\Projekt 1301.dll
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.pdb
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\Projekt 1301.genruntimeconfig.cache
+C:\Users\simon\Downloads\Projekt 1301 fertig\Projekt 1301 neu\Projekt 1301\obj\Debug\net6.0\ref\Projekt 1301.dll
